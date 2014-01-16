@@ -3,7 +3,7 @@ Tag-Cloud-with-Dinamyc-Index-for-Blogger
 
 Nube de etiquetas con lista dinámica de títulos de las entradas para Blogger
 
-Documentación en: 
+Documentación en: http://codementia.blogspot.com.es/2014/01/nube-de-etiquetas-con-indice-dinamico.html
 
 Añadir el siguiente CSS y el cargador final a la página de Blogger:
 
