@@ -22,6 +22,10 @@ font-family:"Times New Roman",Georgia,Serif;
 text-align: center;
 margin-bottom: 20px;
 }
+#tagCloud a // para no romper palabras al final del div
+{
+white-space: nowrap;
+}
 #listTitols
 {
 width: 100%;
